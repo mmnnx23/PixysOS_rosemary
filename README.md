@@ -1,2 +1,2 @@
 # PixysOS_rosemary
-# OTA Server for Rosemary
+# PixysOS Builds for Rosemary
